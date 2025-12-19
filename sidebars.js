@@ -434,6 +434,7 @@ module.exports = {
             "reference/advanced-topics/generator",
             "reference/advanced-topics/getters-and-setters",
             "reference/advanced-topics/project-references",
+            "reference/advanced-topics/performance-and-build-optimization",
           ],
         },
       ],
