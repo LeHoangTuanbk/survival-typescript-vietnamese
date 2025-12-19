@@ -39,6 +39,11 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        sitemap: {
+          changefreq: "weekly",
+          priority: 0.5,
+          filename: "sitemap.xml",
+        },
         // Google Analytics tắt cho bản dịch tiếng Việt
         // googleAnalytics: {
         //   trackingID: "UA-43572771-14",
