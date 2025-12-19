@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://survival-typescript-vietnamese.vercel.app/sitemap.xml
+Sitemap: https://survival-typescript-vietnamese.dev/sitemap.xml

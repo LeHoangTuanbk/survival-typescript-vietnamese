@@ -13,7 +13,7 @@ const config = {
   title: "Survival TypeScript - Nhập môn TypeScript",
   tagline: "Học TypeScript để sống sót trong thế giới lập trình",
   favicon: "img/logo.svg",
-  url: "https://survival-typescript-vietnamese.vercel.app",
+  url: "https://survival-typescript-vietnamese.dev",
   baseUrl: "/",
   organizationName: "LeHoangTuanbk",
   projectName: "survival-typescript-vietnamese",
