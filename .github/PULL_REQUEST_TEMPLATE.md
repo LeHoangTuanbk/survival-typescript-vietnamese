@@ -1,8 +1,8 @@
 <!--
-本プロジェクトではチケット駆動を原則としています。GitHubのキーワードを用いたissueの関連付け機能を用いて、対応したissueをプルリクエストに関連付けてください。
+Dự án này tuân theo nguyên tắc ticket-driven. Vui lòng sử dụng tính năng liên kết issue bằng keyword của GitHub để liên kết issue tương ứng với pull request.
 
-・チケット駆動: https://typescriptbook.jp/writing/ticket-driven
-・issue関連付け機能: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
+・Ticket-driven: https://typescriptbook.jp/writing/ticket-driven
+・Tính năng liên kết issue: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
 -->
 
-close #<ISSUE番号>
+close #<SỐ_ISSUE>
